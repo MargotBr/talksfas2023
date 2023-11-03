@@ -1,0 +1,503 @@
+---
+title: Quand les sciences sensorielles rencontrent le développement logiciel
+subtitle: Opportunités & Challenges
+author: Margot Brard
+date: 09-11-2023
+place: Workshop de la Société Française d'Analyse Sensorielle
+format: 
+  thinkridentity-revealjs:
+    template-partials:
+      - title-slide.html
+---
+
+# Les sciences sensorielles avant le développement logiciel
+
+Retour d'expérience : Et si on faisait un saut dans le temps ?
+
+## Mon quotidien de sensométricienne avant le dev
+
+<br>
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '20%'
+knitr::include_graphics("img/parcours.png")
+```
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow de rédaction
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '90%'
+knitr::include_graphics("img/workflow_rapport1.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow de rédaction
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '90%'
+knitr::include_graphics("img/workflow_rapport2.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow de rédaction
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '90%'
+knitr::include_graphics("img/workflow_rapport3.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow de rédaction
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '90%'
+knitr::include_graphics("img/workflow_rapport4.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow de rédaction
+
+::: {.columns}
+
+::: {.column .center-items width="70%"}
+<br>
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '100%'
+knitr::include_graphics("img/workflow_rapport4.png")
+```
+:::
+
+::: {.column width="30%"}
+**Pain points**
+
+- Chronophage
+- Sans plus-value
+- Source d'erreurs
+- Non standardisé
+- Non reproductible
+- Non *(mal)* versionné
+
+:::
+:::
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow d'usinage d'applications web
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_tool1.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow d'usinage d'applications web
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_tool2.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow d'usinage d'applications web
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_tool3.png")
+```
+<br>
+
+## Mon quotidien de sensométricienne avant le dev
+
+### Mon workflow d'usinage d'applications web
+
+::: {.columns}
+
+::: {.column .center-items width="70%"}
+<br>
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '100%'
+knitr::include_graphics("img/workflow_tool3.png")
+```
+:::
+
+::: {.column width="30%"}
+**Pain points**
+
+- Chronophage (à la fois pour le sensométricien et l'utilisateur)
+- Sans plus-value
+- Non *(mal)* versionné
+- **Douloureux +++ pour l'utilisateur**
+
+:::
+
+:::
+
+## Mon quotidien de sensométricienne avant le dev
+
+<br>
+<br>
+<br>
+
+**Pain points**
+
+- Chronophage
+- Sans plus-value
+- Douloureux
+
+<br>
+<br>
+
+::: {.fragment .fade-in-then-out}
+> Si j'avais passé moins de temps dans ces workflows contraignants, j'aurai pu **augmenter mes performances** et rédiger encore plus de rapports et produire encore plus d'applications
+:::
+
+::: {.fragment .fade-up}
+> Si j'avais passé moins de temps dans ces workflows contraignants, j'aurai pu **apporter une plus grande valeur ajoutée à mon travail**
+:::
+
+## Mon quotidien de sensométricienne avant le dev
+
+<br>
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '20%'
+knitr::include_graphics("img/parcours2.png")
+```
+
+# Opportunités
+
+Retour d'expérience : En quoi le développement logiciel a changé ma vision des choses ?
+
+## En quoi le développement logiciel a changé ma vision des choses
+
+<br>
+<br>
+<br>
+
+::: {.columns}
+
+::: {.column .center-items width="50%"}
+### AVANT
+
+<br>
+
+::: {.fragment}
+Avec mes compétences en statistique et en développement, je peux analyser des données sensorielles en tout genre
+:::
+
+<br>
+
+::: {.fragment}
+Coder est mon outil de travail
+:::
+
+:::
+
+::: {.column .center-items width="50%"}
+### APRÈS
+
+:::
+
+:::
+
+## En quoi le développement logiciel a changé ma vision des choses
+
+<br>
+<br>
+<br>
+
+:::: {.columns}
+
+::: {.column .center-items width="50%"}
+### AVANT
+
+<br>
+
+Avec mes compétences en statistique et en développement, je peux analyser des données sensorielles en tout genre
+
+<br>
+
+Coder est mon outil de travail
+
+:::
+
+::: {.column .center-items width="50%"}
+### APRÈS
+
+<br>
+
+::: {.fragment}
+Avec mes compétences en statistique et en développement, je peux analyser des données sensorielles en tout genre, mais je peux aussi apporter ma pierre à l'édifice en faisant en sorte d'**améliorer le quotidien de mes collègues** *(analystes sensoriels, panels leaders)*
+:::
+
+<br>
+
+::: {.fragment}
+Coder est mon ~~outil de~~ travail
+:::
+
+:::
+
+::::
+
+## Ce que le développement logiciel peut apporter aux sciences sensorielles
+
+### Un nouveau type de workflow de rédaction
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_rapport_new1.png")
+```
+<br>
+
+## Ce que le développement logiciel peut apporter aux sciences sensorielles
+
+### Un nouveau type de workflow de rédaction
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_rapport_new2.png")
+```
+<br>
+
+## Ce que le développement logiciel peut apporter aux sciences sensorielles
+
+### Un nouveau type de workflow d'usinage d'applications
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_tool_new1.png")
+```
+<br>
+
+## Ce que le développement logiciel peut apporter aux sciences sensorielles
+
+### Un nouveau type de workflow d'usinage d'applications
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_tool_new2.png")
+```
+<br>
+
+## Opportunités
+
+### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
+
+[![](img/sensoreport.png)](https://connect.thinkr.fr/sensoreport/){height="50"}
+
+![](https://connect.thinkr.fr/sensoreport/){height="50"}
+
+## Opportunités
+
+### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '100%'
+knitr::include_graphics("img/opportunities.png")
+```
+<br>
+
+## Opportunités
+
+### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_sensoreport1.png")
+```
+<br>
+
+## Opportunités
+
+### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_sensoreport2.png")
+```
+<br>
+
+## Opportunités
+
+### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_sensoreport3.png")
+```
+<br>
+
+# Challenges
+
+Retour d'expérience : C'est bien sympa tout ça, mais en pratique, ça implique quoi ?
+
+## Challenges
+
+<br>
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/workflow_sensoreport3.png")
+```
+<br>
+
+## Challenges
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/challenges1.png")
+```
+<br>
+
+## Challenges
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/challenges2.png")
+```
+<br>
+
+## Challenges
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/challenges3.png")
+```
+<br>
+
+## Challenges
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/challenges4.png")
+```
+<br>
+
+# Take home messages
+
+# Ressources
+
+L'application de démo `{sensoreport}` : <https://github.com/ThinkR-open/sensoreport>
+
+Le code source de `{sensoreport}` : <https://github.com/ThinkR-open/sensoreport>
+
+Les articles de blog de ThinkR : <https://thinkr.fr/blog/>
+
+# Merci
+
+::: {.columns}
+
+::: {.column .center-items width="100%"}
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '20%'
+knitr::include_graphics("img/margot.png")
+```
+margot@thinkr.fr
+:::
+:::
