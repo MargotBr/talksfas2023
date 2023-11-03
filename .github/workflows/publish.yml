@@ -40,8 +40,6 @@ jobs:
           packages:
             any::knitr
             any::rmarkdown
-            any::downlit
-            any::xml2
 
       # From https://github.com/julia-actions/setup-julia
       # - name: Setup Julia
