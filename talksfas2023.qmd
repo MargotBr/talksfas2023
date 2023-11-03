@@ -479,7 +479,7 @@ knitr::include_graphics("img/challenges4.png")
 
 # Take home messages
 
-Coucou les asticots
+*À compléter*
 
 # Ressources
 
