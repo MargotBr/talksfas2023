@@ -4,10 +4,9 @@ on:
 
 name: Render and Publish
 
- you need these permissions to publish to GitHub pages
-  permissions: 
-     contents: write
-     pages: write
+permissions: 
+  contents: write
+  pages: write
 
 jobs:
   build-deploy:
@@ -26,7 +25,7 @@ jobs:
 
        - name: Publish to GitHub Pages (and render) 
          uses: quarto-dev/quarto-actions/publish@v2
-         
+
          with:
            target: gh-pages
          env:
