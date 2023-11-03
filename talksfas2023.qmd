@@ -479,6 +479,8 @@ knitr::include_graphics("img/challenges4.png")
 
 # Take home messages
 
+Coucou les asticots
+
 # Ressources
 
 L'application de démo `{sensoreport}` : <https://github.com/ThinkR-open/sensoreport>
