@@ -137,7 +137,7 @@
     "href": "talksfas2023.html#opportunités-1",
     "title": "Quand les sciences sensorielles rencontrent le développement logiciel",
     "section": "Opportunités",
-    "text": "Opportunités\nC’est bien sympa tout ça, mais en pratique ? Ça donne quoi ?"
+    "text": "Opportunités\nC’est bien sympa tout ça, mais en pratique ? Ça donne quoi ?\nL’exemple de {sensoreport}: https://github.com/ThinkR-open/sensoreport"
   },
   {
     "objectID": "talksfas2023.html#opportunités-2",
@@ -203,10 +203,17 @@
     "text": "Challenges"
   },
   {
+    "objectID": "talksfas2023.html#challenges-6",
+    "href": "talksfas2023.html#challenges-6",
+    "title": "Quand les sciences sensorielles rencontrent le développement logiciel",
+    "section": "Challenges",
+    "text": "Challenges"
+  },
+  {
     "objectID": "talksfas2023.html#take-home-messages-1",
     "href": "talksfas2023.html#take-home-messages-1",
     "title": "Quand les sciences sensorielles rencontrent le développement logiciel",
     "section": "Take home messages",
-    "text": "Take home messages\n\n\n\nLe développement logiciel peut permettre aux acteurs du domaine sensoriel de passer moins de temps dans des workflows contraignants et d’apporter une plus grande valeur ajoutée à leur travail.\n\n\n\n\n\nLe développement logiciel requiert des outils, mais surtout des compétences, bien que le sensométricien “digital” doit rester avant tout… un sensométricien !.\n\n\n\n\n\nSavoir écrire un script R n’est pas suffisant pour tirer pleinement profit des opportunités du digital dans le domaine sensoriel.\n\n\n\n\n\nS’appuyer sur des pratiques d’ingénierie logicielle est non seulement beaucoup plus accessible qu’on ne l’imagine, mais c’est aussi une source inépuisable de conditions de travail sécurisées et qualitatives."
+    "text": "Take home messages\n\n\n\nLe développement logiciel peut permettre aux acteurs du domaine sensoriel de passer moins de temps dans des workflows contraignants et d’apporter une plus grande valeur ajoutée à leur travail\n\n\n\n\n\nLe développement logiciel requiert des outils, mais surtout des compétences, bien que le sensométricien “digital” doit rester avant tout… un sensométricien !\n\n\n\n\n\nSavoir écrire un script R n’est pas suffisant pour tirer pleinement profit des opportunités du digital dans le domaine sensoriel\n\n\n\n\n\nS’appuyer sur des pratiques d’ingénierie logicielle est non seulement beaucoup plus accessible qu’on ne l’imagine, mais c’est aussi une source inépuisable de conditions de travail sécurisées et qualitatives"
   }
 ]
