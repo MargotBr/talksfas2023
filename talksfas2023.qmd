@@ -369,14 +369,20 @@ knitr::include_graphics("img/workflow_tool_new2.png")
 
 ### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
 
-[![](img/sensoreport.png)](https://connect.thinkr.fr/sensoreport/){height="50"}
+L'exemple de `{sensoreport}`: <https://github.com/ThinkR-open/sensoreport>
 
-![](https://connect.thinkr.fr/sensoreport/){height="50"}
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '50%'
+knitr::include_graphics("img/sensoreport.png")
+```
 
 ## Opportunités
 
 ### C'est bien sympa tout ça, mais en pratique ? Ça donne quoi ?
 
+<br>
 <br>
 
 ```{r}
@@ -494,6 +500,18 @@ knitr::include_graphics("img/challenges4.png")
 ```
 <br>
 
+## Challenges
+
+<br>
+
+```{r}
+#| echo: false
+#| fig.align: 'center'
+#| out.width: '60%'
+knitr::include_graphics("img/challenges5.png")
+```
+<br>
+
 # Take home messages
 
 ## Take home messages
@@ -501,25 +519,25 @@ knitr::include_graphics("img/challenges4.png")
 <br>
 
 ::: {.fragment}
-> Le développement logiciel peut permettre aux acteurs du domaine sensoriel de passer moins de temps dans des workflows contraignants et d'**apporter une plus grande valeur ajoutée à leur travail**.
+> Le développement logiciel peut permettre aux acteurs du domaine sensoriel de passer moins de temps dans des workflows contraignants et d'**apporter une plus grande valeur ajoutée à leur travail**
 :::
 
 <br>
 
 ::: {.fragment}
-> Le développement logiciel requiert des outils, mais **surtout des compétences**, bien que le sensométricien "digital" **doit rester avant tout... un sensométricien !**.
+> Le développement logiciel requiert des outils, mais **surtout des compétences**, bien que le sensométricien "digital" **doit rester avant tout... un sensométricien !**
 :::
 
 <br>
 
 ::: {.fragment}
-> **Savoir écrire un script R n'est pas suffisant pour tirer pleinement profit des opportunités du digital dans le domaine sensoriel.**
+> **Savoir écrire un script R n'est pas suffisant pour tirer pleinement profit des opportunités du digital dans le domaine sensoriel**
 :::
 
 <br>
 
 ::: {.fragment}
-> **S'appuyer sur des pratiques d'ingénierie logicielle est non seulement beaucoup plus accessible qu'on ne l'imagine, mais c'est aussi une source inépuisable de conditions de travail sécurisées et qualitatives.**
+> **S'appuyer sur des pratiques d'ingénierie logicielle est non seulement beaucoup plus accessible qu'on ne l'imagine, mais c'est aussi une source inépuisable de conditions de travail sécurisées et qualitatives**
 :::
 
 # Ressources
