@@ -10,6 +10,23 @@ format:
       - title-slide.html
 ---
 
+## Rapport de l'enquête réalisée par l'European Sensory Network sur le digital dans le domaine sensoriel
+
+_Enquête réalisée auprès des participants au Pangborn 2023 [extrait]_ 
+
+<br>
+<br>
+
+::: {.fragment}
+> Positive mindset – recognising the value of adopting digital technologies and learning the skills to deliver the benefits.
+:::
+
+<br>
+
+::: {.fragment}
+> Traditional skills important – sensory scientist should still be ‘expert’ in sensory science and develop at least ‘intermediate’ skills in digital technologies.
+:::
+
 # Les sciences sensorielles avant le développement logiciel
 
 Retour d'expérience : Et si on faisait un saut dans le temps ?
@@ -479,13 +496,39 @@ knitr::include_graphics("img/challenges4.png")
 
 # Take home messages
 
-*À compléter*
+## Take home messages
+
+<br>
+
+::: {.fragment}
+> Le développement logiciel peut permettre aux acteurs du domaine sensoriel de passer moins de temps dans des workflows contraignants et d'**apporter une plus grande valeur ajoutée à leur travail**.
+:::
+
+<br>
+
+::: {.fragment}
+> Le développement logiciel requiert des outils, mais **surtout des compétences**, bien que le sensométricien "digital" **doit rester avant tout... un sensométricien !**.
+:::
+
+<br>
+
+::: {.fragment}
+> **Savoir écrire un script R n'est pas suffisant pour tirer pleinement profit des opportunités du digital dans le domaine sensoriel.**
+:::
+
+<br>
+
+::: {.fragment}
+> **S'appuyer sur des pratiques d'ingénierie logicielle est non seulement beaucoup plus accessible qu'on ne l'imagine, mais c'est aussi une source inépuisable de conditions de travail sécurisées et qualitatives.**
+:::
 
 # Ressources
 
 L'application de démo `{sensoreport}` : <https://github.com/ThinkR-open/sensoreport>
 
 Le code source de `{sensoreport}` : <https://github.com/ThinkR-open/sensoreport>
+
+Le rapport de l'ESN sur le digital dans le domaine sensoriel : <https://www.esn-network.com/fileadmin/user_upload/documents/2023/ESN_Pangborn_Digital_Survey_Report_FINAL_30Oct23.pdf>
 
 Les articles de blog de ThinkR : <https://thinkr.fr/blog/>
 
